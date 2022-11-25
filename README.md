@@ -1,4 +1,4 @@
-## Oii!! Eu Sou a Cris
+## Oii!! Eu sou a Cris
 - 🎓 Estudando Front - End ..
 - 🎓 Estudando Análise e desenvolvimento de sistemas - (UniRitter)
 ##
