@@ -1,6 +1,6 @@
 ## Oii!! Eu Sou a Cris
 - 🎓 Estudando Front - End ..
-- 🎓 Estudando Análise e desenvolvimento de sistemas - UniRitter ..
+- 🎓 Estudando Análise e desenvolvimento de sistemas - (UniRitter)
 ##
  <div>
   <a href="https://github.com/CrisFerSouza">
