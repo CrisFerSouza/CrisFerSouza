@@ -24,3 +24,6 @@
   <a href="https://www.linkedin.com/in/cristiane-souza-ads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ##
+   
+   
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/118825037/204087082-6a2b7279-ec09-40dd-9d0c-c4a07dfe89b8.gif)
