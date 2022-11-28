@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Cris 🖐
 
-- 🎓 Estudante de Análise e desenvolvimento de sistemas - (UniRitter)
+- 🎓 Estudando de Análise e desenvolvimento de sistemas - (UniRitter)
 - 👩🏻‍💻 Estudando Front-End
 
 ##
